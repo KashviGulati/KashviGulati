@@ -4,7 +4,6 @@
   <img src="https://media.tenor.com/Ug6cbVA1Zs4AAAAC/cat-typing.gif" width="200">
 </p>
 
-
 ---
 
 ### ☕ Daily Mood
