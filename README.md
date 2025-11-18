@@ -1,7 +1,7 @@
 <h1 align="center">✨ Heyy, I'm Kashvi 👾💗</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/Ug6cbVA1Zs4AAAAC/cat-typing.gif" width="200">
+  <img src="https://media.tenor.com/4zbm5yZ1M6oAAAAC/cat-typing.gif" width="500">
 </p>
 
 ---
