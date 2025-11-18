@@ -1,8 +1,9 @@
-<h1 align="center">✨ Heyy, I'm Kashvi 👾💗</h1>
+<h1 align="center">Heyy, I'm Kashvi 👾</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k5NGlodWNsY3htMXUzN2p2Z21ubHczYXB6c21ndHA5a2JxeTBuayZlcD12MV9naWZzX3NlYXJjaCZjdT1n/3oriO0OEd9QIDdllqo/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="330">
 </p>
+
 
 ---
 
