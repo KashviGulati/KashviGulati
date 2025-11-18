@@ -1,7 +1,7 @@
 <h1 align="center">Heyy, I'm Kashvi 👾</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="330">
+  <img src="https://media.tenor.com/0s3TjqU2t5gAAAAC/cat-computer.gif" width="330">
 </p>
 
 
