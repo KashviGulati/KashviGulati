@@ -1,4 +1,4 @@
-<h1 align="center">✨ Heyy, I'm Kashvi 👾💗</h1>
+<h1 align="center"> Heyy, I'm Kashvi 👾</h1>
 
 <p align="center">
   <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="200">
@@ -23,10 +23,10 @@ class Kashvi {
   hobby = "Googling errors faster than I type code";
 
   getVibes() {
-    return [
-      "💖 Slay-coder",
-      "🌙 Midnight debugging queen",
-      "🎧 Music + code = therapy"
-    ];
-  }
+  return [
+    "⚡ Debugging life one meltdown at a time",
+    "🫠 Emotionally dependent on dark mode",
+    "🤖 Coding like I understand everything"
+  ];
+}
 }
