@@ -1,7 +1,7 @@
-<h1 align="center">Heyy, I'm Kashvi 👾</h1>
+<h1 align="center">✨ Heyy, I'm Kashvi 👾💗</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/0s3TjqU2t5gAAAAC/cat-computer.gif" width="330">
+  <img src="https://media.tenor.com/Ug6cbVA1Zs4AAAAC/cat-typing.gif" width="200">
 </p>
 
 
@@ -14,18 +14,20 @@ But hey, at least the vibes are ✨immaculate✨
 ---
 
 ### 🪩 The Plot Twist
-> That one dev who actually reads documentation… sometimes
+> My code works. I don’t know why. Please don’t touch it.
 
 ```js
 class Kashvi {
-  constructor() {
-    this.currentMood = "coding while panicking 💀";
-    this.superpower = "turning coffee into working code";
-    this.weakness = "CSS nightmares + semicolons";
-    this.status = "chronically online but productive-ish";
-  }
-  
+  mood = "debugging my own existence 😭";
+  skills = ["Python", "Flask", "accidentally breaking everything"];
+  fear = "CSS behaving too well";
+  hobby = "Googling errors faster than I type code";
+
   getVibes() {
-    return ["💖 Slay-coder", "🌙 Midnight debugging queen", "🎧 Music + code = therapy"];
+    return [
+      "💖 Slay-coder",
+      "🌙 Midnight debugging queen",
+      "🎧 Music + code = therapy"
+    ];
   }
 }
